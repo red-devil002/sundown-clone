@@ -1,5 +1,5 @@
 
-Here's a revised version of your project description:
+Here's is the project description:
 
 Hello everyone,
 
